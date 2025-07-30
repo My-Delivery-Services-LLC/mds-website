@@ -27,10 +27,10 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { name: "Facebook", href: "https://facebook.com/mdsdelivery", icon: Facebook },
-    { name: "Twitter", href: "https://twitter.com/mdsdelivery", icon: Twitter },
-    { name: "Instagram", href: "https://instagram.com/mdsdelivery", icon: Instagram },
-    { name: "LinkedIn", href: "https://linkedin.com/company/mdsdelivery", icon: Linkedin },
+    { name: "Facebook", href: "https://www.facebook.com/mdscouae", icon: Facebook },
+    { name: "Twitter", href: "https://x.com/Mdsco_UAE", icon: Twitter },
+    { name: "Instagram", href: "https://www.instagram.com/mdsco_uae", icon: Instagram },
+    { name: "LinkedIn", href: "https://www.linkedin.com/company/my-delivery-services-co-dubai", icon: Linkedin },
   ];
 
   return (
